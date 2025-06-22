@@ -26,6 +26,20 @@ Here’s what I’m building & sharing here on GitHub:
 
 - 🔗 [📘 Notes Book](https://github.com/yourusername/notes-book): A well-organized collection of my technical notes (Linux, Cloud, AI, and more).
 
-- 🔗 [🛠️ Tools & Scripts](https://github.com/yourusername/tools-scripts): Scripts and automation I’ve created in labs or projects.
+## 🛠️ Tools & Scripts
 
-- 🔗 [🚧 Projects (Coming Soon)](https://github.com/yourusername/projects): Hands-on demos, labs, and case studies.
+Useful scripts, automation playbooks, and CLI tools I’ve written:
+
+- [](https://github.com/Salman-Qurayshi/bash-firewall-hardener): 
+- [](https://github.com/Salman-Qurayshi/ansible-secure-linux): 
+- [](https://github.com/Salman-Qurayshi/python-log-analyzer):
+- [](https://github.com/Salman-Qurayshi/terraform-secure-vpc):
+
+
+## 🚧 Projects
+
+ Hands-on demos, labs, and case studies.
+
+- [🔐 Web Pentesting Lab](https://github.com/Salman-Qurayshi/web-pentest-lab): Vulnerable app with Burp Suite, SQLi, XSS, SSRF testing examples
+- [☁️ AWS Compliance Demo](https://github.com/Salman-Qurayshi/aws-compliance-config): Uses AWS Config & Lambda to enforce compliance rules
+- [🧪 Kubernetes Security Lab](https://github.com/Salman-Qurayshi/k8s-security-hardening): Hardened K8s cluster with RBAC, PodSecurityPolicies, etc.
