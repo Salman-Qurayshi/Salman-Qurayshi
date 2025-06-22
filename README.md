@@ -53,5 +53,7 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 
  Hands-on demos, labs, and case studies.
 
+ - 🔗 [Flask CI/CD Lab](https://github.com/Salman-Qurayshi/flask-cicd-lab): Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 automation via shell scripts.
+
 
 
