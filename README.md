@@ -47,7 +47,7 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 - 🔗 [![Custom Pages](https://img.shields.io/badge/-Custom%20Pages-555555?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Salman-Qurayshi/Custom-pages)  My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
   
-- 🔗 [![Mega Title Extractor](https://img.shields.io/badge/-Mega%20Title%20Extractor-FF0000?style=for-the-badge&logo=python&logoColor=white)]([https://github.com/Salman-Qurayshi/mega-link-title-extractor](https://github.com/Salman-Qurayshi/selenium-mega-link-parser))  A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
+- 🔗 [![Mega Title Extractor](https://img.shields.io/badge/-Mega%20Title%20Extractor-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/selenium-mega-link-parser)  A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
   
 - 🔗 [![SSH Key Auto-Setup](https://img.shields.io/badge/-SSH%20Key%20Auto--Setup-006400?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/ssh-key-auto-setup)  Automates secure SSH access setup with dynamic public key handling, OS detection, and security hardening.
 
