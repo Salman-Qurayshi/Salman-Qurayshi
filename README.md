@@ -32,7 +32,7 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 Here’s what I’m building & sharing here on GitHub:
 
 ### 🧾 Notes & Learning Archive
-- 🔗 [📘 Notes Book](https://github.com/yourusername/notes-book): A well-organized collection of my technical notes (Linux, Cloud, AI, and more).
+- 🔗 [ Notes Book](https://github.com/yourusername/notes-book): A well-organized collection of my technical notes (Linux, Cloud, AI, and more).
 
 
 
@@ -42,7 +42,7 @@ Here’s what I’m building & sharing here on GitHub:
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 - 🔗 [ Custom Pages Repo](https://github.com/Salman-Qurayshi/Custom-pages): My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
-- 🔗 [🧠 Mega Title Extractor](https://github.com/Salman-Qurayshi/mega-link-title-extractor): A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
+- 🔗 [ Mega Title Extractor](https://github.com/Salman-Qurayshi/mega-link-title-extractor): A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
 - 🔗 [SSH Key Auto-Setup](https://github.com/Salman-Qurayshi/ssh-key-auto-setup): Automates secure SSH access setup with dynamic public key handling, OS detection, and security hardening.
 
 
