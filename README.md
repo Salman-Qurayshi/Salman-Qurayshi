@@ -11,12 +11,13 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 
 
+<br><br>
 ## 🎓 Education & Training
 
 - 🎓 **EduQual accredited RQF level 6 Diploma in AiOps, Emerging Technologies(equivalent to a Bachelor's degree in the UK)** 
 
 
-
+<br><br>
 ## 🌐 Connect With Me
 
 - 📄 [My Portfolio](https://github.com/Salman-Qurayshi/Portfolio/tree/main) A snapshot of some of my experience and projects in one file.
@@ -25,7 +26,7 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 
 
-
+<br><br>
 ## 📁 Repositories
 
 Here’s what I’m building & sharing here on GitHub:
@@ -35,7 +36,7 @@ Here’s what I’m building & sharing here on GitHub:
 
 
 
-
+<br><br>
 ### 🛠️ Tools & Scripts
 
 Useful scripts, automation playbooks, and CLI tools I’ve written:
@@ -45,7 +46,7 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 
 
-
+<br><br>
 ### 🚧 Projects
 
  Hands-on demos, labs, and case studies.
