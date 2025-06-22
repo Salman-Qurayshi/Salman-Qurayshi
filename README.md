@@ -24,9 +24,11 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 Here’s what I’m building & sharing here on GitHub:
 
+### 🧾 Notes & Learning Archive
 - 🔗 [📘 Notes Book](https://github.com/yourusername/notes-book): A well-organized collection of my technical notes (Linux, Cloud, AI, and more).
 
-## 🛠️ Tools & Scripts
+
+### 🛠️ Tools & Scripts
 
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
@@ -37,7 +39,7 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 - [](https://github.com/Salman-Qurayshi/terraform-secure-vpc):
 
 
-## 🚧 Projects
+### 🚧 Projects
 
  Hands-on demos, labs, and case studies.
 
