@@ -32,8 +32,8 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 Here’s what I’m building & sharing here on GitHub:
 
 ### 🧾 Notes & Learning Archive
-- 🔗 [ Notes Book](https://github.com/yourusername/notes-book): A well-organized collection of my technical notes (Linux, Cloud, AI, and more).
-
+- 📝 **[Notes Book GitHub Repo](https://github.com/Salman-Qurayshi/Notes-Book)** – Raw notes from my diploma and hands-on learning in AI, DevOps, Security, and Cloud.
+- 📄 **[Clean Version on Notion](https://your-notion-link-here)** – Same notes, better format, inline images, toggles, and navigation.
 
 
 <br><br>
