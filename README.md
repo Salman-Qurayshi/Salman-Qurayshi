@@ -30,7 +30,8 @@ Here’s what I’m building & sharing here on GitHub:
 
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
-- [](https://github.com/Salman-Qurayshi/bash-firewall-hardener): 
+- 🔗 [ Custom Pages Repo](https://github.com/Salman-Qurayshi/Custom-pages): My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
+
 - [](https://github.com/Salman-Qurayshi/ansible-secure-linux): 
 - [](https://github.com/Salman-Qurayshi/python-log-analyzer):
 - [](https://github.com/Salman-Qurayshi/terraform-secure-vpc):
