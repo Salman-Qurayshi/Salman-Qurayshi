@@ -15,7 +15,7 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 ## 🌐 Connect With Me
 
-- 📄 [My Portfolio]([link-to-repo-or-direct-file](https://github.com/Salman-Qurayshi/Portfolio/tree/main)) A snapshot of some of my experience and projects in one file.
+- 📄 [My Portfolio](https://github.com/Salman-Qurayshi/Portfolio/tree/main) A snapshot of some of my experience and projects in one file.
 - 💼 [LinkedIn](https://www.linkedin.com/in/salman-qureshi-4aa41a247)
 - 📬 Email: salmanalqureshi97@gmail.com
 
