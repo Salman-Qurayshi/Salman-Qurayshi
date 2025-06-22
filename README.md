@@ -43,6 +43,8 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 - 🔗 [ Custom Pages Repo](https://github.com/Salman-Qurayshi/Custom-pages): My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
 - 🔗 [🧠 Mega Title Extractor](https://github.com/Salman-Qurayshi/mega-link-title-extractor): A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
+- 🔗 [SSH Key Auto-Setup](https://github.com/Salman-Qurayshi/ssh-key-auto-setup): Automates secure SSH access setup with dynamic public key handling, OS detection, and security hardening.
+
 
 
 
