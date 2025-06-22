@@ -33,16 +33,12 @@ Here’s what I’m building & sharing here on GitHub:
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 - 🔗 [ Custom Pages Repo](https://github.com/Salman-Qurayshi/Custom-pages): My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
-
-- [](https://github.com/Salman-Qurayshi/ansible-secure-linux): 
-- [](https://github.com/Salman-Qurayshi/python-log-analyzer):
-- [](https://github.com/Salman-Qurayshi/terraform-secure-vpc):
+- 🔗 [🧠 Mega Title Extractor](https://github.com/Salman-Qurayshi/mega-link-title-extractor): A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
 
 
 ### 🚧 Projects
 
  Hands-on demos, labs, and case studies.
 
-- [🔐 Web Pentesting Lab](https://github.com/Salman-Qurayshi/web-pentest-lab): Vulnerable app with Burp Suite, SQLi, XSS, SSRF testing examples
-- [☁️ AWS Compliance Demo](https://github.com/Salman-Qurayshi/aws-compliance-config): Uses AWS Config & Lambda to enforce compliance rules
-- [🧪 Kubernetes Security Lab](https://github.com/Salman-Qurayshi/k8s-security-hardening): Hardened K8s cluster with RBAC, PodSecurityPolicies, etc.
+
+
