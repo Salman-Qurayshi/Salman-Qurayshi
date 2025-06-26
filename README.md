@@ -35,7 +35,8 @@ Here’s what I’m building & sharing here on GitHub:
 
 - [![Notes Book on Github](https://img.shields.io/badge/-Notes%20Book-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salman-Qurayshi/Notes-Book) – Raw notes from my diploma and hands-on learning in AI, DevOps, Security, and Cloud.
 
-- [![Clean Version on Notion](https://img.shields.io/badge/-Clean%20Version%20on%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://rattle-syringa-129.notion.site/Notes-2193e043159d8014b424cd5a359ce775?source=copy_link]) – Same notes, better format, inline images, toggles, and navigation.
+- [![Clean Version on Notion](https://img.shields.io/badge/-Clean%20Version%20on%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rattle-syringa-129.notion.site/Notes-2193e043159d8014b424cd5a359ce775?source=copy_link)
+– Same notes, better format, inline images, toggles, and navigation.
 
 
 
