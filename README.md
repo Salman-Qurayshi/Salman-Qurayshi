@@ -60,4 +60,7 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 Hands-on demos, labs, and case studies:
 
 - 🔗 [![Flask CI/CD Lab](https://img.shields.io/badge/-Flask%20CI%2FCD%20Lab-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Salman-Qurayshi/flask-cicd-lab)  Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 automation via shell scripts.
+-  🔗 [![Flask Podman DB Stack](https://img.shields.io/badge/-Flask%20Podman%20DB%20Stack-89E051?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/Salman-Qurayshi/flask-podman-db-stack)  
+  Containerized Flask microservice with PostgreSQL using Podman Compose. Includes secrets .
+
   
