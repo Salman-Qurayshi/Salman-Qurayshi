@@ -27,11 +27,11 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 <br><br>
 
-## 📁 Repositories
+# 📁 Repositories
 
 Here’s what I’m building & sharing here on GitHub:
 
-### 🧾 Notes & Learning Archive
+## 🧾 Notes & Learning Archive
 
 - [![Notes Book on Github](https://img.shields.io/badge/-Notes%20Book-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salman-Qurayshi/Notes-Book) – Raw notes from my diploma and hands-on learning in AI, DevOps, Security, and Cloud.
 
@@ -42,7 +42,7 @@ Here’s what I’m building & sharing here on GitHub:
 
 <br><br>
 
-### 🛠️ Tools & Scripts
+## 🛠️ Tools & Scripts
 
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
@@ -55,12 +55,27 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 
 <br><br>
 
-### 🚧 Projects
+## 🚧 Projects
 
 Hands-on demos, labs, and case studies:
 
-- 🔗 [![Flask CI/CD Lab](https://img.shields.io/badge/-Flask%20CI%2FCD%20Lab-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Salman-Qurayshi/flask-cicd-lab)  Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 automation via shell scripts.
--  🔗 [![Flask Podman DB Stack](https://img.shields.io/badge/-Flask%20Podman%20DB%20Stack-89E051?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/Salman-Qurayshi/flask-podman-postgres-stack.git)
-  Containerized Flask microservice with PostgreSQL using Podman Compose. Includes secrets .
+### DevOps
 
-  
+
+
+- 🔗 [![K8s Multi-Tier App](https://img.shields.io/badge/-K8s%20Multi--Tier%20App-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Salman-Qurayshi/k8s-multi-tier-app)
+
+A Kubernetes-based 3-tier application demo (Nginx + Flask + MySQL) using ConfigMaps, Secrets, Liveness Probes, Scaling, and Minikube.
+
+- 🔗 [![Flask CI/CD Lab](https://img.shields.io/badge/-Flask%20CI%2FCD%20Lab-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Salman-Qurayshi/flask-cicd-lab)
+
+Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 automation via shell scripts.
+
+-  🔗 [![Flask Podman DB Stack](https://img.shields.io/badge/-Flask%20Podman%20DB%20Stack-89E051?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/Salman-Qurayshi/flask-podman-postgres-stack.git)
+
+containerized Flask microservice with PostgreSQL using Podman Compose. Includes secrets .
+
+
+
+
+
