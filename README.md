@@ -75,6 +75,7 @@ Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 a
 
 containerized Flask microservice with PostgreSQL using Podman Compose. Includes secrets .
 
+- 🔗 [![K8s CI/CD Pipeline](https://img.shields.io/badge/-K8s%20CI%2FCD%20Pipeline-0A97DA?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/Salman-Qurayshi/k8s-cicd) — A full Kubernetes CI/CD pipeline, automating container test build and deployment using Github Actions.
 
 
 
