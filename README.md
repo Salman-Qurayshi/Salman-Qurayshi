@@ -69,14 +69,16 @@ A Kubernetes-based 3-tier application demo (Nginx + Flask + MySQL) using ConfigM
 
 - 🔗 [![Flask CI/CD Lab](https://img.shields.io/badge/-Flask%20CI%2FCD%20Lab-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Salman-Qurayshi/flask-cicd-lab)
 
-Simple Flask web app deployed using AWS CodePipeline & CodeDeploy — with EC2 automation via shell scripts.
+Simple Flask web app deployed using AWS CodePipeline & CodeDeploy, with EC2 automation via shell scripts.
 
 -  🔗 [![Flask Podman DB Stack](https://img.shields.io/badge/-Flask%20Podman%20DB%20Stack-89E051?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/Salman-Qurayshi/flask-podman-postgres-stack.git)
 
-containerized Flask microservice with PostgreSQL using Podman Compose. Includes secrets .
+containerized Flask microservice with PostgreSQL using Podman Compose, Includes secrets .
 
 - 🔗 [![K8s CI/CD Pipeline](https://img.shields.io/badge/-K8s%20CI%2FCD%20Pipeline-0A97DA?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/Salman-Qurayshi/k8s-cicd) — A full Kubernetes CI/CD pipeline, automating container test build and deployment using Github Actions.
 
+
+- 🔗 [![GitOps K8s · Argo CD](https://img.shields.io/badge/-GitOps%20K8s%20Argo%E2%80%90CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/Salman-Qurayshi/gitops-k8s-argocd) — A hands‑on project demonstrating GitOps principles for Kubernetes deployments using Argo CD: automated syncs, updates, failure handling, and rollbacks.
 
 
 
