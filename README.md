@@ -80,5 +80,7 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 
 - 🔗 [![GitOps K8s · Argo CD](https://img.shields.io/badge/-GitOps%20K8s%20Argo%E2%80%90CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/Salman-Qurayshi/gitops-k8s-argocd) — A hands‑on project demonstrating GitOps principles for Kubernetes deployments using Argo CD: automated syncs, updates, failure handling, and rollbacks.
 
+- 🔗 [![DevOps CI/CD Capstone](https://img.shields.io/badge/-DevOps%20CI%2FCD%20Capstone-4285F4?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/Salman-Qurayshi/DevOps-CI-CD-Capstone)  - Comprehensive CI/CD pipeline automating a **Node.js** application delivery with **Jenkins**, **Docker**, **SonarQube**, **Trivy**, and deployment on **GCP**. Includes building, testing (unit + integration), static code analysis, vulnerability scanning, containerization, and automated deployment.
+
 
 
