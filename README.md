@@ -82,5 +82,7 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 
 - 🔗 [![DevOps CI/CD Capstone](https://img.shields.io/badge/-DevOps%20CI%2FCD%20Capstone-4285F4?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/Salman-Qurayshi/DevOps-CI-CD-Capstone)  - Comprehensive CI/CD pipeline automating a **Node.js** application delivery with **Jenkins**, **Docker**, **SonarQube**, **Trivy**, and deployment on **GCP**. Includes building, testing (unit + integration), static code analysis, vulnerability scanning, containerization, and automated deployment.
 
+- 🔗 [![Kafka Datadog Observability](https://img.shields.io/badge/-Kafka%20Datadog%20Ops-659AD2?style=for-the-badge&logo=ApacheKafka&logoColor=white)](https://github.com/Salman-Qurayshi/kafka-datadog-ops)  
+  Observability stack for Kafka ecosystem (Docker Compose: Kafka, Zookeeper, Python apps) integrated with **Datadog**—includes JMX metrics, unified logs, and monitoring dashboards.
 
 
