@@ -85,4 +85,7 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 - 🔗 [![Kafka Datadog Observability](https://img.shields.io/badge/-Kafka%20Datadog%20Ops-659AD2?style=for-the-badge&logo=ApacheKafka&logoColor=white)](https://github.com/Salman-Qurayshi/kafka-datadog-ops)  
   Observability stack for Kafka ecosystem (Docker Compose: Kafka, Zookeeper, Python apps) integrated with **Datadog**—includes JMX metrics, unified logs, and monitoring dashboards.
 
+- 🔗 [![Secure ML DevSecOps Pipeline](https://img.shields.io/badge/-Secure%20ML%20DevSecOps-FF6F61?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/secure-ml-devsecops-pipeline)  
+  End-to-end **ML model deployment** via a Flask API, fully containerized and secured with a **Jenkins-driven DevSecOps pipeline**. Features automated linting (Flake8 + Black), static code analysis (Bandit), container vulnerability scanning (Trivy), optional secret scanning, SBOM generation, and deployment to a staging environment.
+
 
