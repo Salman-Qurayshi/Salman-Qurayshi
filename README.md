@@ -20,8 +20,12 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 
 ## 🌐 Connect With Me
 
-- [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Salman-Qurayshi/Portfolio/tree/main) -  A snapshot of some of my experience and projects in one file.  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salman-qureshi-4aa41a247)  
+- [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Salman-Qurayshi/Portfolio/tree/main)
+
+  A snapshot of some of my experience and projects in one file.  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salman-qureshi-4aa41a247)
+
+  My linkedin Profile   
 - ![Email](https://img.shields.io/badge/-salmanalqureshi97@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
 
 
@@ -34,10 +38,13 @@ Here’s what I’m building & sharing here on GitHub:
 
 ## 🧾 Notes & Learning Archive
 
-- [![Notes Book on Github](https://img.shields.io/badge/-Notes%20Book-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salman-Qurayshi/Notes-Book) – Raw notes from my diploma and hands-on learning in AI, DevOps, Security, and Cloud.
+- [![Notes Book on Github](https://img.shields.io/badge/-Notes%20Book-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salman-Qurayshi/Notes-Book)
+
+  Raw notes from my diploma and hands-on learning in AI, DevOps, Security, and Cloud.
 
 - [![Clean Version on Notion](https://img.shields.io/badge/-Clean%20Version%20on%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rattle-syringa-129.notion.site/Notes-2193e043159d8014b424cd5a359ce775?source=copy_link)
-– Same notes, better format, inline images, toggles, and navigation.
+
+  Same notes, better format, inline images, toggles, and navigation.
 
 <br><br>
 
@@ -45,11 +52,17 @@ Here’s what I’m building & sharing here on GitHub:
 
 Useful scripts, automation playbooks, and CLI tools I’ve written:
 
-- 🔗 [![Custom Pages](https://img.shields.io/badge/-Custom%20Pages-555555?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Salman-Qurayshi/Custom-pages)  My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
+- 🔗 [![Custom Pages](https://img.shields.io/badge/-Custom%20Pages-555555?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Salman-Qurayshi/Custom-pages)
+
+  My earliest ethical hacking projects — login forms, captive portals, and phishing page simulations.
   
-- 🔗 [![Mega Title Extractor](https://img.shields.io/badge/-Mega%20Title%20Extractor-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/selenium-mega-link-parser)  A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
+- 🔗 [![Mega Title Extractor](https://img.shields.io/badge/-Mega%20Title%20Extractor-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/selenium-mega-link-parser)
+
+  A Python+Selenium automation script to extract folder names from Mega links and pair them with the original URL.
   
-- 🔗 [![SSH Key Auto-Setup](https://img.shields.io/badge/-SSH%20Key%20Auto--Setup-006400?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/ssh-key-auto-setup)  Automates secure SSH access setup with dynamic public key handling, OS detection, and security hardening.
+- 🔗 [![SSH Key Auto-Setup](https://img.shields.io/badge/-SSH%20Key%20Auto--Setup-006400?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/ssh-key-auto-setup)
+
+  Automates secure SSH access setup with dynamic public key handling, OS detection, and security hardening.
 
 
 <br><br>
@@ -57,6 +70,8 @@ Useful scripts, automation playbooks, and CLI tools I’ve written:
 ## 🚧 Projects
 
 Hands-on demos, labs, and case studies:
+
+---
 
 ### DevOps
 
@@ -87,4 +102,4 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 - 🔗 [![Secure ML DevSecOps Pipeline](https://img.shields.io/badge/-Secure%20ML%20DevSecOps-FF6F61?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/secure-ml-devsecops-pipeline)  
   End-to-end **ML model deployment** via a Flask API, fully containerized and secured with a **Jenkins-driven DevSecOps pipeline**. Features automated linting (Flake8 + Black), static code analysis (Bandit), container vulnerability scanning (Trivy), optional secret scanning, SBOM generation, and deployment to a staging environment.
 
-
+---
