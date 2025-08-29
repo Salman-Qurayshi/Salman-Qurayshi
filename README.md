@@ -28,6 +28,85 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
   My linkedin Profile   
 - ![Email](https://img.shields.io/badge/-salmanalqureshi97@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
 
+<br><br>
+
+---
+
+## 🛠️ Tools & Technologies  
+
+These are some of the tools and technologies I have worked with in one way or another across different projects, labs, and environments:  
+## 🛠️ Tools & Technologies
+
+Here are some of the tools and technologies I have worked with in different projects:
+
+## 🛠️ Tools & Technologies  
+
+### ☁️ Cloud & Virtualization
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
+
+### ⚙️ DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?logo=vagrant&logoColor=white)
+
+### 💻 Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🖥️ Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Tails OS](https://img.shields.io/badge/Tails%20OS-56347C?logo=tails&logoColor=white)
+![Whonix](https://img.shields.io/badge/Whonix-1434A4?logo=whonix&logoColor=white)
+
+### 🔒 Security & Pentesting Tools
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=portswigger&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004E92?logo=nmap&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C2C2C?logo=aircrack-ng&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?logo=gnu&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?logo=hashcat&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-5C2D91?logo=gnometerminal&logoColor=white)
+![Evilginx](https://img.shields.io/badge/Evilginx-DC143C?logo=gnometerminal&logoColor=white)
+![Ettercap](https://img.shields.io/badge/Ettercap-3C3C3C?logo=gnometerminal&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-CC0000?logo=gnometerminal&logoColor=white)
+
+### 🌐 Web & Servers
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+
+### 📊 Monitoring & Logging
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
+
+
 
 <br><br>
 
