@@ -5,7 +5,7 @@ I'm a **Security, Cloud, Ai and DevOps Engineer** with hands-on experience in bu
 - 🔒 Offensive & Defensive Security  
 - ☁️ Secure Cloud Deployments  
 - 🔄 DevOps Automation & CI/CD  
-- 🧠 AI-Powered Infrastructure Monitoring  
+- 🧠 AI-Powered Infrastructure   
 
 With a background in ethical hacking and modern AI-Cloud workflows, I bring together **security**, **automation**, and **research** to solve complex IT challenges.
 
