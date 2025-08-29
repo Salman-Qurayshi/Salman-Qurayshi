@@ -89,17 +89,42 @@ Simple Flask web app deployed using AWS CodePipeline & CodeDeploy, with EC2 auto
 
 containerized Flask microservice with PostgreSQL using Podman Compose, Includes secrets .
 
-- 🔗 [![K8s CI/CD Pipeline](https://img.shields.io/badge/-K8s%20CI%2FCD%20Pipeline-0A97DA?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/Salman-Qurayshi/k8s-cicd) — A full Kubernetes CI/CD pipeline, automating container test build and deployment using Github Actions.
+- 🔗 [![K8s CI/CD Pipeline](https://img.shields.io/badge/-K8s%20CI%2FCD%20Pipeline-0A97DA?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://github.com/Salman-Qurayshi/k8s-cicd)
+
+   A full Kubernetes CI/CD pipeline, automating container test build and deployment using Github Actions.
 
 
-- 🔗 [![GitOps K8s · Argo CD](https://img.shields.io/badge/-GitOps%20K8s%20Argo%E2%80%90CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/Salman-Qurayshi/gitops-k8s-argocd) — A hands‑on project demonstrating GitOps principles for Kubernetes deployments using Argo CD: automated syncs, updates, failure handling, and rollbacks.
+- 🔗 [![GitOps K8s · Argo CD](https://img.shields.io/badge/-GitOps%20K8s%20Argo%E2%80%90CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/Salman-Qurayshi/gitops-k8s-argocd) 
 
-- 🔗 [![DevOps CI/CD Capstone](https://img.shields.io/badge/-DevOps%20CI%2FCD%20Capstone-4285F4?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/Salman-Qurayshi/DevOps-CI-CD-Capstone)  - Comprehensive CI/CD pipeline automating a **Node.js** application delivery with **Jenkins**, **Docker**, **SonarQube**, **Trivy**, and deployment on **GCP**. Includes building, testing (unit + integration), static code analysis, vulnerability scanning, containerization, and automated deployment.
+    A hands‑on project demonstrating GitOps principles for Kubernetes deployments using Argo CD: automated syncs, updates, failure handling, and rollbacks.
+
+- 🔗 [![DevOps CI/CD Capstone](https://img.shields.io/badge/-DevOps%20CI%2FCD%20Capstone-4285F4?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/Salman-Qurayshi/DevOps-CI-CD-Capstone)
+
+   Comprehensive CI/CD pipeline automating a **Node.js** application delivery with **Jenkins**, **Docker**, **SonarQube**, **Trivy**, and deployment on **GCP**. Includes building, testing (unit + integration), static code analysis, vulnerability scanning, containerization, and automated deployment.
 
 - 🔗 [![Kafka Datadog Observability](https://img.shields.io/badge/-Kafka%20Datadog%20Ops-659AD2?style=for-the-badge&logo=ApacheKafka&logoColor=white)](https://github.com/Salman-Qurayshi/kafka-datadog-ops)  
+
   Observability stack for Kafka ecosystem (Docker Compose: Kafka, Zookeeper, Python apps) integrated with **Datadog**—includes JMX metrics, unified logs, and monitoring dashboards.
 
 - 🔗 [![Secure ML DevSecOps Pipeline](https://img.shields.io/badge/-Secure%20ML%20DevSecOps-FF6F61?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/secure-ml-devsecops-pipeline)  
-  End-to-end **ML model deployment** via a Flask API, fully containerized and secured with a **Jenkins-driven DevSecOps pipeline**. Features automated linting (Flake8 + Black), static code analysis (Bandit), container vulnerability scanning (Trivy), optional secret scanning, SBOM generation, and deployment to a staging environment.
+
+   End-to-end **ML model deployment** via a Flask API, fully containerized and secured with a **Jenkins-driven DevSecOps pipeline**. Features automated linting (Flake8 + Black), static code analysis (Bandit), container vulnerability scanning (Trivy), optional secret scanning, SBOM generation, and deployment to a staging environment.
 
 ---
+
+---
+
+### 🔐 Security Projects
+
+- 🔗 [![Linux Security Projects](https://img.shields.io/badge/-Linux%20Security%20Projects-800000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/linux-security-projects)  
+
+  A dedicated repo showcasing **hands-on Linux security implementations**. Covers:
+  - Identity & Access Management **(FreeIPA on GCP)**
+  - Mandatory Access Control **(SELinux)**
+  - File Integrity & Intrusion Detection *8(AIDE)**
+  - System Auditing & Logging **(Auditd)**
+  - **TLS**-based Secure Communication
+  - Automated Hardening with **Ansible** Playbooks
+
+---
+
