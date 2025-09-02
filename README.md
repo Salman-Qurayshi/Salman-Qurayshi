@@ -207,3 +207,23 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 
 ---
 
+## 🌐 SysOps, Cloud & AI
+
+During my Journney; **Diploma, labs and other things i did**, I focused heavily on **SysOps, Cloud, and AI**.  
+While I didn’t maintain GitHub repos at that time, I created detailed documentation of everything I practiced.  
+These notes serve as a record of my **hands-on experience** and **learning journey**.
+
+### 🖥️ SysOps & Linux Administration
+Over time, I gained extensive hands-on experience in SysOps and Linux administration.  
+The more time you spend in this field, the more you understand the **depth and power of Linux** — and I made sure to document that progression in detail. 
+These notes reflect **real work, configurations, and troubleshooting**:  
+- [Linux SysOps Notes (Notion)](https://rattle-syringa-129.notion.site/Linux-2623e043159d806493adca300e126add?pvs=143)
+
+### ☁️ Cloud (AWS, GCP, Azure)
+Similar to SysOps, My Cloud journey is fully documented in Notion, including **projects i implemented in Diploma and Projects**:  
+- [Cloud Computing Notes (Notion)](https://rattle-syringa-129.notion.site/Cloud-SysOps-2193e043159d819897a1ff2b1ecadcd3?pvs=143)
+
+### 🤖 AI & Machine Learning
+I explored **AI concepts, model fine-tuning, and edge deployments** as part of my learning track.  
+Notes include **theory + practical lab steps (almost like projects)**:  
+- [AI & Edge Computing Notes (Notion)](https://rattle-syringa-129.notion.site/Ai-Adv-2193e043159d81d585a2cfe10f993842?pvs=143)
