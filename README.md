@@ -80,6 +80,7 @@ These are some of the tools and technologies I have worked with in one way or an
 ### 🔒 Security & Pentesting Tools
 ![Nessus](https://img.shields.io/badge/Nessus-00AEEF?logo=tenable&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004E92?logo=nmap&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C2C2C?logo=aircrack-ng&logoColor=white)
@@ -89,6 +90,11 @@ These are some of the tools and technologies I have worked with in one way or an
 ![Evilginx](https://img.shields.io/badge/Evilginx-DC143C?logo=gnometerminal&logoColor=white)
 ![Ettercap](https://img.shields.io/badge/Ettercap-3C3C3C?logo=gnometerminal&logoColor=white)
 ![Bettercap](https://img.shields.io/badge/Bettercap-CC0000?logo=gnometerminal&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-333333?logo=gnometerminal&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-800000?logo=gnometerminal&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4682B4?logo=gnometerminal&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-556B2F?logo=gnometerminal&logoColor=white)
+
 
 ### 🌐 Web & Servers
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
