@@ -35,11 +35,6 @@ With a background in ethical hacking and modern AI-Cloud workflows, I bring toge
 ## 🛠️ Tools & Technologies  
 
 These are some of the tools and technologies I have worked with in one way or another across different projects, labs, and environments:  
-## 🛠️ Tools & Technologies
-
-Here are some of the tools and technologies I have worked with in different projects:
-
-## 🛠️ Tools & Technologies  
 
 ### ☁️ Cloud & Virtualization
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
