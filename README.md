@@ -206,6 +206,10 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
   - **TLS**-based Secure Communication
   - Automated Hardening with **Ansible** Playbooks
 
+- [AI-Powered Web Fuzzer](https://github.com/Salman-Qurayshi/-AI-Powered-Web-Fuzzer)
+
+  An intelligent fuzzer that uses the Google Gemini API to generate smart wordlists for `ffuf`, inspired by Brainstorm (Invicti Security).
+
 ---
 
 ## 🌐 SysOps, Cloud & AI
