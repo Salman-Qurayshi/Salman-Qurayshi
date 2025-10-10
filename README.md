@@ -94,6 +94,8 @@ These are some of the tools and technologies I have worked with in one way or an
 ![sqlmap](https://img.shields.io/badge/sqlmap-800000?logo=gnometerminal&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-4682B4?logo=gnometerminal&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-556B2F?logo=gnometerminal&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?logo=snort&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?logo=gnu&logoColor=white)
 
 
 ### 🌐 Web & Servers
@@ -192,26 +194,6 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 
 ---
 
----
-
-### 🔐 Security Projects
-
-- 🔗 [![Linux Security Projects](https://img.shields.io/badge/-Linux%20Security%20Projects-800000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/linux-security-projects)  
-
-  A dedicated repo showcasing **hands-on Linux security implementations**. Covers:
-  - Identity & Access Management **(FreeIPA on GCP)**
-  - Mandatory Access Control **(SELinux)**
-  - File Integrity & Intrusion Detection *8(AIDE)**
-  - System Auditing & Logging **(Auditd)**
-  - **TLS**-based Secure Communication
-  - Automated Hardening with **Ansible** Playbooks
-
-- [AI-Powered Web Fuzzer](https://github.com/Salman-Qurayshi/-AI-Powered-Web-Fuzzer)
-
-  An intelligent fuzzer that uses the Google Gemini API to generate smart wordlists for `ffuf`, inspired by Brainstorm (Invicti Security).
-
----
-
 ## 🌐 SysOps, Cloud & AI
 
 During my Journney; **Diploma, labs and other things i did**, I focused heavily on **SysOps, Cloud, and AI**.  
@@ -232,3 +214,33 @@ Similar to SysOps, My Cloud journey is fully documented in Notion, including **p
 I explored **AI concepts, model fine-tuning, and edge deployments** as part of my learning track.  
 Notes include **theory + practical lab steps (almost like projects)**:  
 - [AI & Edge Computing Notes (Notion)](https://rattle-syringa-129.notion.site/Ai-Adv-2193e043159d81d585a2cfe10f993842?pvs=143)
+
+---
+
+---
+
+### 🔐 Security Projects
+
+- 🔗 [![Linux Security Projects](https://img.shields.io/badge/-Linux%20Security%20Projects-800000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Salman-Qurayshi/linux-security-projects)  
+
+  A dedicated repo showcasing **hands-on Linux security implementations**. Covers:
+  - Identity & Access Management **(FreeIPA on GCP)**
+  - Mandatory Access Control **(SELinux)**
+  - File Integrity & Intrusion Detection *8(AIDE)**
+  - System Auditing & Logging **(Auditd)**
+  - **TLS**-based Secure Communication
+  - Automated Hardening with **Ansible** Playbooks
+
+- 🔗 [![AI-Powered Web Fuzzer](https://img.shields.io/badge/-AI--Powered%20Web%20Fuzzer-FF6F61?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Salman-Qurayshi/-AI-Powered-Web-Fuzzer)
+
+  An intelligent fuzzer that uses the Google Gemini API to generate smart wordlists for `ffuf`, inspired by Brainstorm (Invicti Security).
+
+
+- 🔗 [![Phishing Email Analysis](https://img.shields.io/badge/-Phishing%20Email%20Analysis-4682B4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/Salman-Qurayshi/Phishing-Analysis-Project) 
+
+  A forensic analysis of a real phishing email (.eml) uncovering Microsoft credential theft through IoC extraction, header tracing, and infrastructure abuse detection.
+
+
+- 🔗 [![Network Traffic Analysis](https://img.shields.io/badge/-Network%20Traffic%20Analysis-0A97DA?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/Salman-Qurayshi/Network-Analysis) 
+
+  SOC-style investigation of a malicious pcap using Snort, Wireshark, and tcpdump to detect QakBot activity, lateral movement, and credential theft patterns.
