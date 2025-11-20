@@ -244,3 +244,9 @@ Notes include **theory + practical lab steps (almost like projects)**:
 - 🔗 [![Network Traffic Analysis](https://img.shields.io/badge/-Network%20Traffic%20Analysis-0A97DA?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/Salman-Qurayshi/Network-Analysis) 
 
   SOC-style investigation of a malicious pcap using Snort, Wireshark, and tcpdump to detect QakBot activity, lateral movement, and credential theft patterns.
+
+- - 🔗 [![Windows Autoruns Baseline Detection](https://img.shields.io/badge/-Windows%20Autoruns%20Baseline%20Detection-1E90FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Salman-Qurayshi/Windows-Autoruns-Baseline-Detection)
+
+  A SOC-style project demonstrating how to detect **malicious persistence** on Windows systems using SysInternals Autoruns and PowerShell baselines.  
+  I created a clean baseline, simulated attacker persistence using `reg add`, and compared snapshots to identify unauthorized autoruns — including module verification, unsigned binaries, and MITRE ATT&CK mapping (T1547.001).
+
