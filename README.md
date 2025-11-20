@@ -194,7 +194,7 @@ containerized Flask microservice with PostgreSQL using Podman Compose, Includes 
 
 ---
 
-## 🌐 SysOps, Cloud & AI
+### 🌐 SysOps, Cloud & AI
 
 During my Journney; **Diploma, labs and other things i did**, I focused heavily on **SysOps, Cloud, and AI**.  
 While I didn’t maintain GitHub repos at that time, I created detailed documentation of everything I practiced.  
