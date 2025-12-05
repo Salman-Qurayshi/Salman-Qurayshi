@@ -252,6 +252,6 @@ Notes include **theory + practical lab steps (almost like projects)**:
 
 - 🔗 [![SOC Automation Lab](https://img.shields.io/badge/-SOC%20Automation%20Lab-8A2BE2?style=for-the-badge&logo=wazuh&logoColor=white)](https://github.com/Salman-Qurayshi/SOC-Automation-Lab)
 
-  Built a **fully automated detection and response pipeline** integrating **Wazuh (SIEM)**, **Shuffle (SOAR)**, and **TheHive**.
+  Built a fully automated detection and response pipeline integrating **Wazuh (SIEM)**, **Shuffle (SOAR)**, and **TheHive**.
   Engineered custom detection rules for **Mimikatz** credential dumping using **Sysmon** telemetry, and implemented an automated workflow to enrich alerts with **VirusTotal** and dispatch notifications to analysts.
 
